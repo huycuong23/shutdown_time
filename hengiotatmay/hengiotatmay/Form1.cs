@@ -28,7 +28,7 @@ namespace hengiotatmay
             
             if (time.Length == 0)
             {
-                MessageBox.Show("Enter the number of seconds");
+                MessageBox.Show("Enter the number of minutes");
             } else
             {
                 int timeNumber = int.Parse(time, NumberStyles.AllowLeadingWhite | NumberStyles.AllowTrailingWhite);
@@ -42,7 +42,7 @@ namespace hengiotatmay
                 Pro.Start();
                 Pro.StandardInput.WriteLine("shutdown -s -t "+ timeNumber);
                 Pro.StandardInput.WriteLine("exit");
-                MessageBox.Show("DONE!\n" + " Your computer will shutdown in " + timeNumber/60+ " minute");
+                MessageBox.Show("DONE!\n" + " Your computer will shutdown in " + timeNumber/60);
             }
         }
 
