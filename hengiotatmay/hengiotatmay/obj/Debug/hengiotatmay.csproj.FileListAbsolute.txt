@@ -9,3 +9,14 @@ D:\A File\VISUAL STUDIO\hengiotatmay\hengiotatmay\obj\Debug\hengiotatmay.csproj.
 D:\A File\VISUAL STUDIO\hengiotatmay\hengiotatmay\obj\Debug\hengiotatmay.csproj.CoreCompileInputs.cache
 D:\A File\VISUAL STUDIO\hengiotatmay\hengiotatmay\obj\Debug\hengiotatmay.exe
 D:\A File\VISUAL STUDIO\hengiotatmay\hengiotatmay\obj\Debug\hengiotatmay.pdb
+D:\A File\VISUAL STUDIO\shutdown_time\hengiotatmay\hengiotatmay\bin\Debug\hengiotatmay.exe.config
+D:\A File\VISUAL STUDIO\shutdown_time\hengiotatmay\hengiotatmay\bin\Debug\hengiotatmay.exe
+D:\A File\VISUAL STUDIO\shutdown_time\hengiotatmay\hengiotatmay\bin\Debug\hengiotatmay.pdb
+D:\A File\VISUAL STUDIO\shutdown_time\hengiotatmay\hengiotatmay\obj\Debug\hengiotatmay.csproj.AssemblyReference.cache
+D:\A File\VISUAL STUDIO\shutdown_time\hengiotatmay\hengiotatmay\obj\Debug\hengiotatmay.csproj.SuggestedBindingRedirects.cache
+D:\A File\VISUAL STUDIO\shutdown_time\hengiotatmay\hengiotatmay\obj\Debug\hengiotatmay.Form1.resources
+D:\A File\VISUAL STUDIO\shutdown_time\hengiotatmay\hengiotatmay\obj\Debug\hengiotatmay.Properties.Resources.resources
+D:\A File\VISUAL STUDIO\shutdown_time\hengiotatmay\hengiotatmay\obj\Debug\hengiotatmay.csproj.GenerateResource.cache
+D:\A File\VISUAL STUDIO\shutdown_time\hengiotatmay\hengiotatmay\obj\Debug\hengiotatmay.csproj.CoreCompileInputs.cache
+D:\A File\VISUAL STUDIO\shutdown_time\hengiotatmay\hengiotatmay\obj\Debug\hengiotatmay.exe
+D:\A File\VISUAL STUDIO\shutdown_time\hengiotatmay\hengiotatmay\obj\Debug\hengiotatmay.pdb
