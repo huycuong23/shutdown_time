@@ -1,1 +1,3 @@
-test commit
+HOW TO RUN
+
+## STEP 1: BUILD PROJECT BY VISUAL CODE
